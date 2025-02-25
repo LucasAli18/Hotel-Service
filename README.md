@@ -6,7 +6,7 @@ Descripción:
 	 
 Tecnologías: 
 
-			Java, Spring Boot, Spring Security, Kafka, Redis Cache, Docker, WebFlux, Spring Cloud.
+			Java, Spring Boot, Kafka, Redis Cache, Docker, WebFlux, Spring Cloud.
 	 
 Funcionalidades destacadas:
 
